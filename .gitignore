@@ -10,10 +10,4 @@ target/
 *.iws
 .idea
 
-# other?
-.history
-.scala_dependencies
-.cache-main
 
-#general
-*.class
