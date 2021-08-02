@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Acotr-jar.iml" filepath="$PROJECT_DIR$/.idea/modules/Acotr-jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Common-sbt.iml" filepath="$PROJECT_DIR$/.idea/modules/Common-sbt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbt-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/sbt-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sbt-demo-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sbt-demo-build.iml" />
+    </modules>
+  </component>
+</project>
